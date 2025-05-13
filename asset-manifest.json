@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/naver-book-search/static/css/main.e6c13ad2.css",
+    "main.js": "/naver-book-search/static/js/main.763b9b8b.js",
+    "static/js/453.f7beca66.chunk.js": "/naver-book-search/static/js/453.f7beca66.chunk.js",
+    "index.html": "/naver-book-search/index.html",
+    "main.e6c13ad2.css.map": "/naver-book-search/static/css/main.e6c13ad2.css.map",
+    "main.763b9b8b.js.map": "/naver-book-search/static/js/main.763b9b8b.js.map",
+    "453.f7beca66.chunk.js.map": "/naver-book-search/static/js/453.f7beca66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.763b9b8b.js"
+  ]
+}
